@@ -12,13 +12,15 @@
     border-bottom: 1px solid #ededed;
     list-style-type: none;
     margin: 10px;
-    padding-right: 20px;
 }
 
 .name {
     text-align: center;
     background-color: rgba(185, 131, 16, 0.96);
     color: #FFFFFF;
+    border-radius: 10px;
+    font-family: 'Pacifico', cursive;
+    height: auto;
 }
 
 .menu {
